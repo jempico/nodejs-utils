@@ -2,5 +2,5 @@
  Node.js basic exercises
 
 ## Installation 🔧
-To run this project from node.js simply execute:
+To run this project using node.js simply execute:
 ```node app.js```

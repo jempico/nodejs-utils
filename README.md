@@ -3,5 +3,4 @@
 
 ## Installation 🔧
 To run this project from node.js simply execute:
-
-  node app.js
+```node app.js
